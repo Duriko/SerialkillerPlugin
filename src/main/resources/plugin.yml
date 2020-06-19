@@ -1,0 +1,17 @@
+name: SerialkillerPlugin
+version: ${project.version}
+main: org.spigotmc.SerialkillerPlugin
+api-version: 1.14
+depend: [WorldGuard, MythicMobs, ]
+
+commands:
+  serialkiller:
+    status:
+    help:
+    setRespawnpoint:
+    setSpawnChance:
+    setSpawnRadius:
+    setKiller:
+    setForrestRegion:
+    setWorld:
+    setSecondsBetweenEvents:

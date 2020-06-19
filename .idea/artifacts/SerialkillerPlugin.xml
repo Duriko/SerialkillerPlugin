@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SerialkillerPlugin">
+    <output-path>$USER_HOME$/Desktop/minecraft/plugins</output-path>
+    <root id="archive" name="SerialkillerPlugin.jar">
+      <element id="module-output" name="SerialkillerPlugin" />
+    </root>
+  </artifact>
+</component>
